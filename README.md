@@ -10,4 +10,4 @@ It includes details about the tips given to restaurant staff, such as the total 
 
 Dataset link: [Dataset](https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv)
 
-Details is in the `restaurant_tip_analysis.ipynb` file
+Details is in the [Restaurant_tip_analysis.ipynb](https://github.com/perryfalcon0410/Restaurant-tips-analysis/blob/main/Restaurant_tips_analysis.ipynb) file 
